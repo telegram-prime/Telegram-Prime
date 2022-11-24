@@ -13,6 +13,7 @@
 - Includes Modules That Have No Analogues.
 - Join us and start promoting in Telegram now!
 
+## 🔥 BLACK FRIDAY SALE until 28 Nov, 2022 🔥
 
 ## Screenshots:
 
