@@ -1,6 +1,6 @@
 # Telegram Prime  *(ex. Telegram Gods)*
  
- * Описание программы так же доступно на русском языке. См. [Telegram Gods Rus](https://github.com/Telegram Prime/Telegram Prime-RU)
+ * Описание программы так же доступно на русском языке. См. [Telegram Gods Rus](https://github.com/Telegram-Prime/Telegram-Prime-RU)
  * 描述也可以在Chineese中提供。 参见 [Telegram Gods CN](https://github.com/telegram-gods/telegram-prime-CN)
 
 
