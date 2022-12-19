@@ -13,7 +13,24 @@
 - Includes Modules That Have No Analogues.
 - Join us and start promoting in Telegram now!
 
-## 🔥 CYBER WEEK SALE until 16th, Dec 2022 🔥
+##
+🔥CHRISTMAS SALE UP TO -60% 🔥
+  🎉 19 Dec, 2022 - 21 Dec, 2022 🎉
+
+ - 200 $   PERMANENT                   - 60% Discount
+ 
+ - 100 $   MONTHLY                     - 60% Discount
+ 
+ - 210 $   CHAT CLONNER                - 39% Discount
+ 
+ - 130 $   REPORTER                    - 26% Discount
+ 
+ - 80 $     CLONNER OF CHANNELS        - 24% Discount
+ 
+ - 35 $     INTERCEPTER OF MESSAGES   - 50% Discount
+ 
+🔥 Enjoy the best software for the lowest ever price! 🔥
+##
 
 ## Screenshots:
 
