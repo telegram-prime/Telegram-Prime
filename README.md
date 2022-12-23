@@ -13,25 +13,6 @@
 - Includes Modules That Have No Analogues.
 - Join us and start promoting in Telegram now!
 
-##
-🔥CHRISTMAS SALE UP TO -60% 🔥
-  🎉 19 Dec, 2022 - 21 Dec, 2022 🎉
-
- - 200 $   PERMANENT                   - 60% Discount
- 
- - 100 $   MONTHLY                     - 60% Discount
- 
- - 210 $   CHAT CLONNER                - 39% Discount
- 
- - 130 $   REPORTER                    - 26% Discount
- 
- - 80 $     CLONNER OF CHANNELS        - 24% Discount
- 
- - 35 $     INTERCEPTER OF MESSAGES   - 50% Discount
- 
-🔥 Enjoy the best software for the lowest ever price! 🔥
-##
-
 ## Screenshots:
 
 <img width="1196" alt="TGP_EN_8" src="https://user-images.githubusercontent.com/94137664/197394017-9cdd0b39-7515-4ab1-8937-1f145130604e.png"> <img width="1197" alt="TGP_EN_2" src="https://user-images.githubusercontent.com/94137664/197394046-b013d7ee-b3e0-4028-b30e-d66686273f97.png">
