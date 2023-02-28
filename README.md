@@ -27,7 +27,7 @@
 |                FEATURE                         |                                      DESCRIPTION                                                                               |
 | -----------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|
 | Account Management                             | Multi-threaded account management with account branding allow to set photos, status, names, bio, 2fa and 20 more functions.  |
-| Auto-registration of accounts`                 | Register accounts using more than 12 SMS services with special discount in multiple streams (multi-threaded). You just need to adjust settings and choose how many accounts to create, all other actions software will do for you. |
+| Auto-registration of accounts                  | Register accounts using more than 12 SMS services with special discount in multiple streams (multi-threaded). You just need to adjust settings and choose how many accounts to create, all other actions software will do for you. |
 | Check mobile phone numbers if has the Telegram | With the help of a checker, you can check mobile phone numbers for their presence in the telegram, thereby further increasing your base. |
 | Inviter by Id                                  | Collect an audience from any Telegram groups. Filter databases and get exclusively live target audience. |
 | Mass Sending messages (PM and Groups)          | You can do bulk mailings of your advertising messages in PMs to a previously collected audience by ID, username or tel number, you can also send messages to chats. You can also mass send voice messages, photos, videos and other files. Send messages via the @postbot or equivalent. |
@@ -47,7 +47,7 @@
 | Auto-comments in channels                      | Usually the first comments to the post are the most frequently viewed, so let this comment be yours! |
 | Posts cloner                                   | Allows you to clone anyone's channel's posts. |
 | Groups and channels cloner                     | With additional module you can clone anyone's channel either exact or changing keywords to be unique. |
-| Message Intersepter                            | Is able to catch messages from groups, channels, bots or private messages of account(s) and forward it to your private group or channel. |
+| Message Interceptor                            | Is able to catch messages from groups, channels, bots or private messages of account(s) and forward it to your private group or channel. |
 | Abuse (Reports) sender                         | A module for sending automated abuse (reports) for channel, group or bot. |
 | Multilingual support team                      | We have multilingual online support team is accesible directly from the software's UI who is ready to answer all your questions and help you upon request.|
 | Software is auto-updated                       | Our team is constantly monitoring the market and Telegram source code updates and implementing new features to our software. |
