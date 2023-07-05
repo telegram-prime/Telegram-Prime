@@ -47,7 +47,7 @@
 | Auto-reaction on new posts                     | You can set your accounts to place automatic reactions on new Telegram posts. |
 | Telegram usernames validity checker            | Check your base of Telegram usernames for validity before start working with it. |
 | Branching autoresponder                        | With branching autoresponder you can arrange a nearly live dialogue with your customers by replying their questions base on the keywords. |
-| Parsing private groups from account            | This function will widen your capabilities in paersing audience as it will allow you to parse groups where your account participates but the group doesn't have invite link. |
+| Parsing private groups from account            | This function will widen your capabilities in parsing audience as it will allow you to parse groups where your account participates but the group doesn't have invite link. |
 | Invite via admins                              | Assigned admins can invite much more users to your groups and bypass unwanted banns for the group. |
 | Spamblock removal function                     | Use an option to request for account's spamblock removal using your unique texts in order to extend account's lifetime. |
 | Posts cloner                                   | Allows you to clone anyone's channel's posts. |
