@@ -69,7 +69,7 @@
 - Email: manager[@]telegramprime.net
 - Telegram: @TG_Prime_Sales
 - [Twitter](https://twitter.com/TelegramGods)
-- [YouTube Video Guides](https://www.youtube.com/channel/UCM-XtjvwGyR7p2TudOE5sVg/videos)
+- [YouTube Video Guides](https://www.youtube.com/@telegram-prime/videos)
 
 
 ## Donations:
