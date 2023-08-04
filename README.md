@@ -67,7 +67,7 @@
 - Wеb: https://telegramprime.com/ - RU Version
 
 - Email: manager[@]telegramprime.net
-- Telegram: @TG_Prime_Sales
+- Telegram: @TG_Prime_Saller
 - [Twitter](https://twitter.com/TelegramGods)
 - [YouTube Video Guides](https://www.youtube.com/@telegram-prime/videos)
 
