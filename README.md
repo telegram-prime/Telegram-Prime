@@ -68,6 +68,7 @@
 
 - Email: manager[@]telegramprime.net
 - Telegram: [Send message](http://telegramprime.net/telegram-contact)
+- ICQ: https://icq.im/TelegramPrime
 - [Twitter](https://twitter.com/TelegramGods)
 - [YouTube Video Guides](https://www.youtube.com/@telegram-prime/videos)
 
