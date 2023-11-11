@@ -1,11 +1,14 @@
-# Telegram Prime `(ex. Telegram Gods, ex. Telegram Soft)`
+# Telegram PRIME
+`(ex. Telegram Gods, ex. Telegram Soft)`
+
+ ### Telegram Prime - The best software for promotion in Telegram. This is modern product which includes great experience of all previous products. The main task today is timely updates and fast hotfixes. Earn by selling your promotion services in Telegram. Promote your projects and collect leads!
 
  
  * Описание программы так же доступно на русском языке. См. [Telegram PRIME RU](https://github.com/Telegram-Prime/Telegram-Prime-RU)
  * 描述也可以在Chineese中提供。 参见 [Telegram PRIME CN](https://github.com/telegram-gods/telegram-prime-CN)
 
 
-### Telegram Prime - The best software for promotion in Telegram. This is modern product which includes great experience of all previous products. The main task today is timely updates and fast hotfixes. Earn by selling your promotion services in Telegram. Promote your projects and collect leads!
+## Intro
 - The Fast Track to Earnings via Telegram Promotions.
 - This most powerful multifunctional tool for promoting in Тelegram will help you without any effort at all and just in a couple of days to collect desired audience and boost your own channel or group.
 - Discover the future of Telegram promotion with Telegram Prime - the pinnacle of modern software designed to take your promotional efforts to unprecedented heights. Crafted from the rich experience of its predecessors, Telegram Prime stands out as the epitome of innovation and efficiency in the digital marketing realm.
