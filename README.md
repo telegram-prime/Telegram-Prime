@@ -29,6 +29,12 @@
 ## Interface
 - [Software Interface Interactive Web View](https://telegram-prime.shop/prime/index.php)
 
+
+## Install
+- [Latest Web-installer](https://github.com/telegram-prime/Telegram-Prime/releases/latest)
+- [Installation Instructions](https://telegramprime.net/telegram-prime-first-time-installation)
+
+
 ## Screenshots:
 
 <img src="https://github.com/telegram-prime/Telegram-Prime/assets/94137664/17221e16-cfe9-43ad-ab72-4cf90ae200fc" width="200" height="200">
