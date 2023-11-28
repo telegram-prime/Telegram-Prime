@@ -56,6 +56,7 @@
 
 |                FEATURE                         |                                      DESCRIPTION                                                                               |
 | -----------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|
+| Accounts Auto-registration                     | Multithreaded registration of Telegram accounts with a wide choice of SMS services. Parameters and instructions are available to everyone! |
 | Account Management                             | Multi-threaded account management with account branding allow to set photos, status, names, bio, 2fa and 20 more functions.  |
 | Check mobile phone numbers if it has Telegram  | With the help of a checker, you can check mobile phone numbers for their presence in the Telegram with export of username and Telegram ID, thereby further increasing your base. |
 | Inviter by Id                                  | Collect an audience from any Telegram groups. Filter databases and get exclusively live target audience. |
