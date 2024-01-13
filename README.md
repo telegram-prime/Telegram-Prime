@@ -23,7 +23,7 @@
 
 
 ## Video
-- [YouTube Video Guides](https://www.youtube.com/@telegram-prime/videos)
+- [YouTube Video Guides](https://www.youtube.com/@tg-prime/videos)
 
 
 ## Interface
