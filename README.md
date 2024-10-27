@@ -67,6 +67,8 @@
 | The most powerful Geo-parser                   | Allows to gather Telegram users by scanning GEO location of any object (i.e. supermarket) |
 | Invite referrals to bots                       | Invite your accounts via the referral link to bots. |
 | Group Inviter                                  | Add the collected target audience to your telegram groups (chats), filtering it by activity. |
+| Auto-invite for new members                    | This feature allows you to monitor other groups and automatically invite newcomers to your own group. |
+| Suggest photo to user                          | Allows you to mass offer photos to users, in which you can place your ads. |
 | Cheat polls, post reactions and votes          | Participate in anonymous polls and put different reactions on posts in the channel. Cheat accounts in channels/groups/refs in bot. |
 | Session re-login                               | Allows you to easily use accounts while connecting to them from different places. |
 | Session - Tdata converter                      | Convert your sessions to TData for use on Telegram Desktop. |
@@ -86,7 +88,7 @@
 | Text Randomizer                                | Text Randomizer 2.0: when spintax meets AI to achieve maximum uniqueness and content quality. |
 | Working with stories                           | Mass creation of stories on a Telegram account. Viewing stories. And now, a boost for channels too! |
 | Account web view                               | There is no need to convert to tdata anymore, use this function quick live view and chat from account. No code and no 2FA required. |
-| Posts cloner                                   | Allows you to clone anyone's channel's posts. |
+| Channels cloner                                | Allows you to clone Telegram channels in real-time (as new posts are published) as well as old posts. |
 | Groups and channels cloner                     | With additional module you can clone anyone's channel either exact or changing keywords to be unique. |
 | Real time groups cloner                        | Instantly replicate the group dynamics and content seamlessly, ensuring you're always at the forefront of engagement. |
 | Message Interceptor                            | Is able to catch messages from groups, channels, bots or private messages of account(s) and forward it to your private group or channel. |
@@ -105,11 +107,10 @@
 
 - Email:    manager[@]telegramprime.net
 - Telegram: [Send message](https://telegramprime.net/telegram-contact)
-- ICQ:      [Send message](https://telegramprime.net/icq-contact)
 - TamTam:   [Send message](https://telegramprime.net/tamtam-contact)
 - Discord:  [Send message](https://telegramprime.net/discord-contact)
 - Element:  [Send message](https://telegramprime.net/element-contact)
-  
+
 - [Twitter](https://twitter.com/TelegramGods)
 
 
